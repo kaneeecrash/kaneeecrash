@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+jst me surviving hell 
+![GitHub Snake Animation](https://raw.githubusercontent.com/Pickachuuu/Pickachuuu/output/snake.svg)
+
