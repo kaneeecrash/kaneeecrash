@@ -1,4 +1,4 @@
-## hewo ˚₊‧ ୨୧ ‧₊˚ ⋅ 
+## 
 
 <!--
 **kaneeecrash/kaneeecrash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">  
-    🎀 <b>jst me surviving hell</b> 🎀  
+    🎀 <b>hewo ˚₊‧ ୨୧ ‧₊˚ ⋅ </b> 🎀  
 </p>  
 
 <p align="center">  
